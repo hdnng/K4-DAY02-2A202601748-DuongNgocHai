@@ -16,9 +16,9 @@
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | Nhiều học sinh gian lận, coi cóp bài | Workflow rõ, mất nhiều thời gian, có metric tốt | Dữ liệu của học sinh, nhà trường chưa có AI |
+| 1 | Nhiều học sinh gian lận, coi cóp bài | Workflow rõ, mất nhiều thời gian, có metric tốt | Dữ liệu của học sinh, độ chính xác củ mô hình |
 | 2 | Chưa kiểm soát được dòng tiền | Pain phổ biến, có workflow (thu/chi) rõ, AI tự phân loại tốt từ ảnh/text | Dữ liệu cá nhân nhạy cảm, nhiều giao dịch tiền mặt khó tracking |
-| 3 | Chưa kiểm soát được thời gian, thói quen hàng ngày | Rất nhiều sinh viên gặp phải, impact lớn nếu giải quyết được | Phụ thuộc vào kỷ luật bản thân, khó đo lường chính xác improvement |
+| 3 | Chưa kiểm soát được thời gian, thói quen hàng ngày | Rất nhiều sinh viên gặp phải, impact lớn nếu giải quyết được | Phụ thuộc vào kỷ luật bản thân |
 
 ## Problem Card #1 — Học sinh gian lận, coi cóp bài
  
